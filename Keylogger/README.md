@@ -50,5 +50,3 @@ These scripts do not implement any form of encryption, authentication, or error 
 2. Authenticate the client sending the data.
 3. Implement proper error handling and potentially rate-limiting to protect against abuse.
 ```
-
-Please ensure you modify this README to accurately reflect any changes you make to the scripts.
